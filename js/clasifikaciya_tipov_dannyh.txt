@@ -1,0 +1,38 @@
+"use strict";
+let kolichestvoEtajey=9;
+let drob=5.6;
+let imya="Vladimir";
+let nazvanieDomov="Tri_bogatyrya";
+const persone="Alex";
+const bool=false;
+let ung;
+ 
+
+const prostitutka={
+    imya: "Tamara",
+    
+    klichka: "Samara",
+    vozrast:25,
+    pol: "jenskiy",
+    status: "shalava",
+    vid: "golaya"
+
+};
+
+
+let odejda=["kofta","bluzka","mayka","lifchik"];
+
+
+
+console.log(kolichestvoEtajey);
+console.log(drob);
+console.log(imya);
+console.log(nazvanieDomov);
+console.log(4/0);
+console.log("string"*9);
+console.log(persone);
+console.log (bool);
+
+console.log(ung);
+console.log(prostitutka.klichka);
+console.log(odejda[3]);
